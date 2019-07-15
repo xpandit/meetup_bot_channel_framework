@@ -1,14 +1,14 @@
-## Adding inteligence to a simple bot
+## Creating a Web App Bot
 
-We're going to start with a simple bot and just start adding stuff to it - LUIS
+We're going to start with a simple bot and just start conneting the slack to it
 
 ## We'll start preparing the bot
 
-First Create a function bot in [azure](https://portal.azure.com/)
+First Create a Web App Bot in [azure](https://portal.azure.com/)
 
 **Remember to use the LUIS template create bot**
 
-![create bot](screens/1_1_1-CreateFunctionBot.jpg)
+![create bot](screens/WebAppBot/1.JPG)
 
 You can test it directly in the web chat, it's using a common LUIS
 
