@@ -3,7 +3,10 @@
 ## Agenda
 
 1. LUIS Module
-   1. Create Web App bot
+   1. Web App bot
+      1. Create Web App Bot
+      2. Test Web App Bot
+      3. Check the Wb App Bot Code
    2. Create a Channel with slack
    3. Bot Framework
       1. Configure
