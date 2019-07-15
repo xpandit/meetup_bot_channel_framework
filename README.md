@@ -13,4 +13,4 @@
 2. Custom Vision Module
 
 
-[Start Luis Module](https://github.com/xpandit/landingjobs_cognitiveservices/blob/master/CreateWebAppBot.md)
+[Create Web App Bot](https://github.com/xpandit/meetup_bot_channel_framework/blob/master/CreateWebAppBot.md)
