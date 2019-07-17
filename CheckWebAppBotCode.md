@@ -16,5 +16,4 @@ In the lines 26 to 28, the code is calling another dialog.
 
 In the BookingDialog, you can see all the questions and steps, that were made when you test the bot.
 
-
-Now, let's [Create a slack Channel](https://github.com/xpandit/landingjobs_cognitiveservices/blob/master/CreateIntent.md)
+Now, let's [Create a slack Channel](https://github.com/xpandit/meetup_bot_channel_framework/blob/master/CreateSlackChannel.md)
