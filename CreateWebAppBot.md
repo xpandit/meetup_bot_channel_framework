@@ -23,6 +23,7 @@ As you can see 4 components were created:
    - App Service: In this component is the code to handle the interactions, in other words, is here where the bot framework is.
    - Application Insights: The component responsible to monitor the requests.
 
+![create bot](screens/WebAppBot/3.JPG)
 
 Now, let's [Test the Bot](https://github.com/xpandit/meetup_bot_channel_framework/blob/master/TestWebAppBot.md)
 

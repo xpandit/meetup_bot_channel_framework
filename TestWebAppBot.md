@@ -1,7 +1,7 @@
 ## Creating a Web App Bot
 
 
-![create bot](screens/WebAppBot/3.JPG)
+
 
 ![create bot](screens/WebAppBot/4.JPG)
 
