@@ -1,16 +1,13 @@
-## Creating a Web App Bot
+## Test the Web App Bot
 
+In the Web app bot you have all the options that were present in the function bot. 
+the difference is, now instead of azure functions, you will have a web api.
 
+If ou go to the "Test in Web Chat", you can test the Bot, the bot framework and a generic LUIS. 
 
+In this case this bot have a booking flight dialog.
 
 ![create bot](screens/WebAppBot/4.JPG)
 
-![create bot](screens/WebAppBot/5.JPG)
 
-
-
-You can test it directly in the web chat, it's using a common LUIS
-
-![web chat](screens/1_1_2-CreateFunctionBot_chat.jpg)
-
-Now, let's [Test the Bot](https://github.com/xpandit/landingjobs_cognitiveservices/blob/master/CreateIntent.md)
+Now, let's [Check the Web App Bot](https://github.com/xpandit/meetup_bot_channel_framework/blob/master/CheckWebAppBotCode.md)
