@@ -15,6 +15,18 @@ After fulfill all the fields click create
 
 ![create bot](screens/WebAppBot/2.JPG)
 
+As you can see 4 components were created:
+   - Web App Bot: this is the bot, is this component which will connect to the channels
+   - App Service Plan: this is the service plan which all other components will use
+   - App Service: In this component is the code to handle the interactions, in other words, is here where the bot framework is.
+   - Application Insights: The component responsible to monitor the requests.
+
+
+Now, let's [Test the Bot](https://github.com/xpandit/meetup_bot_channel_framework/blob/master/TestWebAppBot.md)
+
+
+
+
 ![create bot](screens/WebAppBot/3.JPG)
 
 ![create bot](screens/WebAppBot/4.JPG)
@@ -27,4 +39,3 @@ You can test it directly in the web chat, it's using a common LUIS
 
 ![web chat](screens/1_1_2-CreateFunctionBot_chat.jpg)
 
-Now, let's [Create an Intent](https://github.com/xpandit/landingjobs_cognitiveservices/blob/master/CreateIntent.md)
