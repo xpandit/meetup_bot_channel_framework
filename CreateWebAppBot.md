@@ -11,7 +11,9 @@ First Create a Web App Bot in [azure](https://portal.azure.com/)
 
 ![create bot](screens/WebAppBot/1.JPG)
 
+
 After fulfill all the fields click create
+
 
 ![create bot](screens/WebAppBot/2.JPG)
 
@@ -24,18 +26,4 @@ As you can see 4 components were created:
 
 Now, let's [Test the Bot](https://github.com/xpandit/meetup_bot_channel_framework/blob/master/TestWebAppBot.md)
 
-
-
-
-![create bot](screens/WebAppBot/3.JPG)
-
-![create bot](screens/WebAppBot/4.JPG)
-
-![create bot](screens/WebAppBot/5.JPG)
-
-
-
-You can test it directly in the web chat, it's using a common LUIS
-
-![web chat](screens/1_1_2-CreateFunctionBot_chat.jpg)
 
