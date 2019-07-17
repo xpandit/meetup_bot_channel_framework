@@ -1,4 +1,8 @@
-## Check the Web App Bot Code
+## Create a Slack Channel
+
+In order to connect you bot to Slack you need to have a slack account.
+
+
 
 Still in the Web App Bot you can go to the build Section.
 
