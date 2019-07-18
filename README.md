@@ -9,7 +9,7 @@
       3. Check the Web App Bot Code
    2. Create a Channel with slack
    3. Bot Framework
-      1. Configure
+      1. Download and Configure
       2. fsdf
 
 
