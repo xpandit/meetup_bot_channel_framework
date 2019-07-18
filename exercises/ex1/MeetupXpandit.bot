@@ -1,0 +1,26 @@
+{
+    "name": "MeetupXpandit",
+    "description": "",
+  "services": [
+    {
+      "type": "endpoint",
+      "appId": "f1f2c35a-fc24-4751-ac4a-55dde4a32b0f",
+      "appPassword": "vRIctc_:P)ae!?yCN$?1^BSWxfdo",
+      "endpoint": "http://localhost:3978/api/messages",
+      "id": "49c1f2c0-a961-11e9-9161-ef2bab54c677",
+      "name": "http://localhost:3978/api/messages"
+    },
+    {
+      "type": "endpoint",
+      "appId": "f1f2c35a-fc24-4751-ac4a-55dde4a32b0f",
+      "appPassword": "vRIctc_:P)ae!?yCN$?1^BSWxfdo",
+      "endpoint": "https://meetupxpandit.azurewebsites.net/api/messages",
+      "id": "49c1f2c0-a961-11e9-9161-ef2bab54c678",
+      "name": "https://meetupxpandit.azurewebsites.net/api/messages"
+    }
+  ],
+    "padlock": "",
+    "version": "2.0",
+    "path": "C:\\bitbucket\\meetup_bot_channel_framework\\exercises\\ex1\\MeetupXpandit.bot",
+    "overrides": null
+}
