@@ -10,10 +10,9 @@
    2. Create a Channel with slack
    3. Bot Framework
       1. Download and Configure
-      2. fsdf
+      2. Make a change and publish
+      3. Import LU to LUIS
 
-
-2. Custom Vision Module
 
 
 [Create Web App Bot](https://github.com/xpandit/meetup_bot_channel_framework/blob/master/CreateWebAppBot.md)

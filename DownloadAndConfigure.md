@@ -1,74 +1,43 @@
-## Create a Slack Channel
+## Download and configure the bot framework
+
+First install the bot framework template, you can found it in here https://marketplace.visualstudio.com/items?itemName=BotBuilder.botbuilderv4
+
+Also install the bot emulator, you can found it in here https://github.com/microsoft/BotFramework-Emulator
+
+Go to the Web App Bot, and then to the build section. In here click in the "Download Bot Source Code"
 
 ![create bot](screens/BotFramework/1.JPG)
+
+Open the solution, as you can see, it's the same that we saw previously
+
 ![create bot](screens/BotFramework/2.JPG)
+
+Open the bor emulator, and create a new bot configuration.
+
 ![create bot](screens/BotFramework/3.JPG)
+
+in here Enter a bot name, url in this case can be the localhost. Also add the app Id and password, you can found them in the appSettings
+
 ![create bot](screens/BotFramework/4.JPG)
+
+In the AppSettings, Add the endpoint url, AppId and API KEY of your luis application.
+
 ![create bot](screens/BotFramework/5.JPG)
+
+Save the bot in your solution
+
 ![create bot](screens/BotFramework/6.JPG)
+
+Open the .bot file configuration, copy and paste the service, change the id, and change the endpoint and name, to the Messaging endpoint found in your web app bot.
+
 ![create bot](screens/BotFramework/7.JPG)
+
+Run the project
+
 ![create bot](screens/BotFramework/8.JPG)
+
+Test in the bot framework
+
 ![create bot](screens/BotFramework/9.JPG)
-![create bot](screens/BotFramework/10.JPG)
-![create bot](screens/BotFramework/11.JPG)
-![create bot](screens/BotFramework/12.JPG)
-![create bot](screens/BotFramework/13.JPG)
-![create bot](screens/BotFramework/14.JPG)
-![create bot](screens/BotFramework/15.JPG)
-![create bot](screens/BotFramework/16.JPG)
-![create bot](screens/BotFramework/17.JPG)
-![create bot](screens/BotFramework/18.JPG)
-![create bot](screens/BotFramework/19.JPG)
-![create bot](screens/BotFramework/20.JPG)
 
-
-
-
-
-
-
-In order to connect you bot to Slack you need to have a slack account.
-
-After Login you can go to https://api.slack.com/apps
-
-In here you create a app
-
-![create bot](screens/Channel/1.JPG)
-
-A popup will appear, so you can add the app name and the workspace
-![create bot](screens/Channel/2.JPG)
-
-After creation go to OAuth & Permissions and add the redirect
-![create bot](screens/Channel/3.JPG)
-
-In the Bot Users, click a new Bot User
-![create bot](screens/Channel/4.JPG)
-
-Fulfill the display name of the bot
-![create bot](screens/Channel/5.JPG)
-
-Go to event Subscription and add the request url https://slack.botframework.com/api/Events/{YourBotHandle}
-
-To know your bot handle go here https://dev.botframework.com/bots
-![create bot](screens/Channel/6.JPG)
-
-After add the request URL subscribe the following events
-![create bot](screens/Channel/7.JPG)
-
-Go to Interactive Components and add the Following Request URL https://slack.botframework.com/api/Actions
-![create bot](screens/Channel/8.JPG)
-
-Select the Basic Information tab and scroll to the App Credentials section. Copy the credentials, it will be necessary in the channel of the web app bot
-![create bot](screens/Channel/9.JPG)
-
-In your azure account, go to the Channels in the Web App Bot
-![create bot](screens/Channel/10.JPG)
-
-Click Save and confirm you identity.
-![create bot](screens/Channel/11.JPG)
-
-Go to your slack workspace, click in your app bot and test you bot
-![create bot](screens/Channel/12.JPG)
-
-
-Now, let's [Create a slack Channel](https://github.com/xpandit/landingjobs_cognitiveservices/blob/master/CreateIntent.md)
+Now, let's [make a change and publish](https://github.com/xpandit/meetup_bot_channel_framework/blob/master/MakeChangeAndPublish.md)
