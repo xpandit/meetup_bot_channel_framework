@@ -10,4 +10,4 @@ In this case this bot have a booking flight dialog.
 ![create bot](screens/WebAppBot/4.JPG)
 
 
-Now, let's [Check the Web App Bot](https://github.com/xpandit/meetup_bot_channel_framework/blob/master/CheckWebAppBotCode.md)
+Now, let's [Check the Web App Bot code](https://github.com/xpandit/meetup_bot_channel_framework/blob/master/CheckWebAppBotCode.md)
