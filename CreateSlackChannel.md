@@ -11,7 +11,7 @@ In here you create a app
 A popup will appear, so you can add the app name and the workspace
 ![create bot](screens/Channel/2.JPG)
 
-After creation go to OAuth & Permissions and add the redirect
+After creation go to OAuth & Permissions and add the redirect,  https://slack.botframework.com
 ![create bot](screens/Channel/3.JPG)
 
 In the Bot Users, click a new Bot User
