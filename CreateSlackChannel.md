@@ -44,4 +44,4 @@ Go to your slack workspace, click in your app bot and test you bot
 ![create bot](screens/Channel/12.JPG)
 
 
-Now, let's [Create a slack Channel](https://github.com/xpandit/landingjobs_cognitiveservices/blob/master/CreateIntent.md)
+Now, let's [Download and configure the bot framework](https://github.com/xpandit/meetup_bot_channel_framework/blob/master/DownloadAndConfigure.md)
